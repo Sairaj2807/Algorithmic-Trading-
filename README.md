@@ -1,5 +1,3 @@
-Here’s a proposed `README.md` for your GitHub repository based on the provided scripts:
-
 ---
 
 # Algorithmic Trading with Fyers API
@@ -118,4 +116,4 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 
 ---
 
-Feel free to adjust the details based on additional features or specific requirements!
+
